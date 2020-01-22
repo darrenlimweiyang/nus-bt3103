@@ -16,8 +16,7 @@ My list of requirements
 For the homework, my selected requirement is idea 5 - a peer to peer service.
 Here is an image of the User Interface:
 
-
-
+![a](BT3103-W2-UI.jpeg)
 
 ## Question 2
 
