@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Lecture Notes
+BT3103 Week2
+BT3103 Week1
